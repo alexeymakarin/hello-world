@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi everyone.
+
+I am trying to figure out GitHub.
+
+So far, not much success.
